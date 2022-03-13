@@ -1,8 +1,8 @@
 {
-  "name": "nestjs-task-management",
+  "name": "nestjs-task-management-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Task management api with nestjs",
+  "author": "Mustafa ER",
   "private": true,
   "license": "MIT",
   "scripts": {
